@@ -10,8 +10,8 @@
 "urlCucumber":"http://app.hgpornhub.com/",
 "urlCucumberImg":"http://imgup.hgpornhub.com/img",
 "urlCucumberVideo":"http://videoup.hgpornhub.com/video/",
-"urlDownload":"https://vip.d0.baidupan.com/file/?CW8APl1sBzZRWAY+ATQCbgA/ATlTdFctBG9VOl13AWUHNgF4D2IPvQT/UKVT4lDtBtME5lOFB41QeQRjUn4GbAkvADFdaQc/UWIGDwE8AmcAZwEwUzlXZQQwVWRdOQE0ByEBMA8hD2YEZlA3UzZQZgZsBDZTOAcjUCcEclIzBjUJOQBmXTgHfFE3BmgBegIyAG8BK1M+VzQEYFU1XTEBYQdlATQPNA86BGdQN1NjUGMGZAQwUzsHMlBmBGRSPQYwCW0AMl1iBzFRNgY0ATECOgA7ATRTIlc0BHNVOF0nAXUHdwEiD28PagRnUDVTM1BjBmsEMFM0Bz1QYwQkUnoGbglkADJdZgduUTYGZQFmAjcAaAEzUz5XbQQ6VWddLwEuByEBIw8iD2YEY1Ao",
-"shareUrl":"https://www.lanzous.com/i1ni43e"
+"urlDownload":"https://vip.d0.baidupan.com/file/?AmRTbQEwBzZUXQoyBDEHa1JtDzcHIAJ4A2hQPwErUzcFK1dhXnMCPVUlUWEHOlQ5VGtTCQcxVjBSaFFjAGlVZAIxUzwBaAdnVCQKOgQjBztSPA87B2kCNwM1UGQBb1N0BXVXcF4+AmRVM1E2B2tUelQ+U24Hd1ZlUmBReABuVTcCM1M2AWgHa1Q7CmgENgc3UmoPOgc5AmYDMFA0AWRTNwVkVzZeZgIzVTVRPgdnVGBUalM0B2xWYlJnUTMAclU1AnJTbwF6ByZUcgooBG0HN1I9DzkHbAIyAzNQZAFqU2MFMFcmXncCP1VuUWIHNVRoVD9TYwdrVmBSZ1FgAG9VYwIwUzYBcgd9VCQKKQQgBztSOQ8k",
+"shareUrl":"https://www.lanzous.com/i1ni5re",
 "urlLive2":"http://qm3.top/",
 "urlTiktok":"http://api.78nm.cn:88/",
 "urlTorrent":"http://720.baby360.ru/",
