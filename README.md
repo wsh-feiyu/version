@@ -2,7 +2,7 @@
 "adRate":200,
 "cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 "isRunAd":false,
-"message":"公告",
+"message":"庆祝 xxLive 上线，注册即送3天体验会员",
 "mustInstall":false,
 "storeUrl":"http://t.cn/RD4bXn6",
 "test":"预留字段",
@@ -10,7 +10,8 @@
 "urlCucumber":"http://app.hgpornhub.com/",
 "urlCucumberImg":"http://imgup.hgpornhub.com/img",
 "urlCucumberVideo":"http://videoup.hgpornhub.com/video/",
-"urlDownload":"",
+"urlDownload":"https://vip.d0.baidupan.com/file/?CW8APl1sBzZRWAY+ATQCbgA/ATlTdFctBG9VOl13AWUHNgF4D2IPvQT/UKVT4lDtBtME5lOFB41QeQRjUn4GbAkvADFdaQc/UWIGDwE8AmcAZwEwUzlXZQQwVWRdOQE0ByEBMA8hD2YEZlA3UzZQZgZsBDZTOAcjUCcEclIzBjUJOQBmXTgHfFE3BmgBegIyAG8BK1M+VzQEYFU1XTEBYQdlATQPNA86BGdQN1NjUGMGZAQwUzsHMlBmBGRSPQYwCW0AMl1iBzFRNgY0ATECOgA7ATRTIlc0BHNVOF0nAXUHdwEiD28PagRnUDVTM1BjBmsEMFM0Bz1QYwQkUnoGbglkADJdZgduUTYGZQFmAjcAaAEzUz5XbQQ6VWddLwEuByEBIw8iD2YEY1Ao",
+"shareUrl":"https://www.lanzous.com/i1ni43e"
 "urlLive2":"http://qm3.top/",
 "urlTiktok":"http://api.78nm.cn:88/",
 "urlTorrent":"http://720.baby360.ru/",
