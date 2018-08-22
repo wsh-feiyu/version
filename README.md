@@ -1,7 +1,7 @@
 {
 "adRate":200,
 "cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
-"isRunAd":false,
+"isRunAd":true,
 "message":"庆祝 xxLive 上线，注册即送3天体验会员",
 "mustInstall":false,
 "storeUrl":"http://t.cn/RD4bXn6",
