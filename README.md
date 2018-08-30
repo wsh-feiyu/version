@@ -2,18 +2,22 @@
 "adRate":200,
 "cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 "isRunAd":true,
-"message":"庆祝 xxLive 上线，注册即送3天体验会员",
+"message":"xxlive免费版已推出，旧版随时停用，下载地址：http://t.cn/RFwyZVz",
 "mustInstall":false,
-"storeUrl":"http://t.cn/RD4bXn6",
+"storeUrl":"http://t.cn/RFwyZVz",
 "test":"预留字段",
 "url91":"http://92.91p31.space/",
 "urlCucumber":"http://app.hgpornhub.com/",
 "urlCucumberImg":"http://imgup.hgpornhub.com/img",
 "urlCucumberVideo":"http://videoup.hgpornhub.com/video/",
-"urlDownload":"",
-"shareUrl":"https://www.lanzous.com/i1ni5re",
+"urlDownload":"https://github.com/xxlive520/version/blob/master/xxlive1.2.apk",
 "urlLive2":"http://qm3.top/",
 "urlTiktok":"http://api.78nm.cn:88/",
 "urlTorrent":"http://ps567.us/",
-"versionId":1
+"versionId":120,
+"shareUrl":"http://104.238.128.165/index.html",
+"zhiKey":"nlcC7815Wl",
+"messageId":10,
+"mustInstall":true
 }
+
