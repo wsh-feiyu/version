@@ -2,11 +2,11 @@
 "adRate":200,
 "cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 "isRunAd":true,
-"message":"xxlive1.3版本已更新，新版内容\n1.修复黄瓜视频不能播放问题\n2.更新备用直播资源\n3.继续保持免费使用\n4.更新版本请使用分享功能，下载地址在分享内容里面",
+"message":"xxlive2.0更新\n1.永久免费，无广告，无强制分享，不需要注册登录\n2.修复往期版本 bug\n3.新增 AVbobo 资源频道\n4.有好的资源欢迎投稿到xxlive邮箱，我看情况整合到 xxlive\n5.新版下载地址：http://t.cn/RsaWiyU",
 "mustInstall":false,
-"storeUrl":"http://t.cn/RF3V3GZ",
+"storeUrl":"http://t.cn/RsaWiyU",
 "test":"预留字段",
-"url91":"http://91porn.com/",
+"url91":"http://93.91p23.space/",
 "urlCucumber":"http://app.hgpornhub.com/",
 "urlCucumberImg":"http://imgup.hgpornhub.com/img",
 "urlCucumberVideo":"http://videoup.hgpornhub.com/video/",
@@ -14,10 +14,10 @@
 "urlLive2":"http://qm3.top/",
 "urlTiktok":"http://api.78nm.cn:88/",
 "urlTorrent":"http://ps567.us/",
-"versionId":130,
+"versionId":136,
 "shareUrl":"http://104.238.128.165/index.html",
-"zhiKey":"nlcC7815Wl",
-"messageId":121,
+"zhiKey":"tfltqH156S",
+"messageId":126,
 "cucumberVersion":"110002101",
 "ads":[],
 "kami":{
@@ -27,9 +27,7 @@
 "shareUrl":"http://104.238.128.165/app.html",
 "message":"ss",
 "mustInstall":false,
-"storeUrl":"http://t.cn/RF3V3GZ",
-"urlDownload":"https://www.lanzous.com/i1t27od"
+"urlDownload":"https://www.lanzous.com/i1t2kuh"
 
 }
 }
-
