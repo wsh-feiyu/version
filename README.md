@@ -1,33 +1,34 @@
 {
-"adRate":200,
+"adRate":150,
 "cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 "isRunAd":true,
-"message":"xxlive2.0更新\n1.永久免费，无广告，无强制分享，不需要注册登录\n2.修复往期版本 bug\n3.新增 AVbobo 资源频道\n4.有好的资源欢迎投稿到xxlive邮箱，我看情况整合到 xxlive\n5.新版下载地址：http://t.cn/RsaWiyU",
+"message":"xxlive2.1已发布，更新内容：\n1.修复 AVbobo\n2.新增车牌搜索功能",
 "mustInstall":false,
-"storeUrl":"http://t.cn/RsaWiyU",
+"storeUrl":"https://www.lanzous.com/i1vzzqd",
 "test":"预留字段",
 "url91":"http://93.91p23.space/",
-"urlCucumber":"http://app.hgpornhub.com/",
+"urlCucumber":"http://hgapi.api-root.com/",
 "urlCucumberImg":"http://imgup.hgpornhub.com/img",
 "urlCucumberVideo":"http://videoup.hgpornhub.com/video/",
 "urlDownload":"https://raw.githubusercontent.com/xxlive520/version/master/xxlive1.2.apk",
 "urlLive2":"http://qm3.top/",
 "urlTiktok":"http://api.78nm.cn:88/",
 "urlTorrent":"http://ps567.us/",
-"versionId":136,
+"versionId":201,
+"designation":"http://cnbtkitty.me",
 "shareUrl":"http://104.238.128.165/index.html",
-"zhiKey":"tfltqH156S",
-"messageId":126,
+"zhiKey":"bYBCf115G0",
+"messageId":201,
 "cucumberVersion":"110002101",
 "ads":[],
 "kami":{
-"kamiUrl":"http://t.cn/RF32I4K",
+"kamiUrl":"https://www.10000ka.cn/details/5C7BB0EA",
 "messageId":1,
 "versionId":1,
 "shareUrl":"http://104.238.128.165/app.html",
 "message":"ss",
 "mustInstall":false,
-"urlDownload":"https://www.lanzous.com/i1t2kuh"
+"urlDownload":"http://t.cn/RsgTSxe"
 
 }
 }
