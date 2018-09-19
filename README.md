@@ -2,9 +2,9 @@
 "adRate":150,
 "cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 "isRunAd":true,
-"message":"xxlive2.1已发布，更新内容：\n1.修复 AVbobo\n2.新增车牌搜索功能",
+"message":"新版发布：修复黄瓜视频播放\n本来想下个版本发布的时候再一起修复的，无奈今天邮件私信我的老哥太多，就提前发个新版吧，感谢大家支持。\n1.修复黄瓜视频播放\n\n2.请大家支持一下我的广告主",
 "mustInstall":false,
-"storeUrl":"https://www.lanzous.com/i1vzzqd",
+"storeUrl":"https://www.lanzous.com/i1wpw8d",
 "test":"预留字段",
 "url91":"http://93.91p23.space/",
 "urlCucumber":"http://hgapi.api-root.com/",
@@ -14,21 +14,21 @@
 "urlLive2":"http://qm3.top/",
 "urlTiktok":"http://api.78nm.cn:88/",
 "urlTorrent":"http://ps567.us/",
-"versionId":201,
+"versionId":220,
 "designation":"http://cnbtkitty.me",
 "shareUrl":"http://104.238.128.165/index.html",
 "zhiKey":"bYBCf115G0",
-"messageId":201,
+"messageId":220,
 "cucumberVersion":"110002101",
-"ads":[],
+"ads":[{"url":"https://mb.ruilinmm.com/bf333f195f7a4ea5cc937a17593005e9","img":"http://104.238.128.165/01.jpg"}],
 "kami":{
-"kamiUrl":"https://www.10000ka.cn/details/5C7BB0EA",
-"messageId":1,
-"versionId":1,
+"kamiUrl":"http://t.cn/EvXhvGH",
+"messageId":2,
+"versionId":220,
 "shareUrl":"http://104.238.128.165/app.html",
-"message":"ss",
+"message":"新人注册送60分钟vip试用时间。视频无法播放请尝试切换手机网络打开观看。每台手机限注册账号一次，请自己记好，不支持找回账号密码，丢失后果自负。其他异常和新功能将在新版本更新。",
 "mustInstall":false,
-"urlDownload":"http://t.cn/RsgTSxe"
+"urlDownload":"https://www.lanzous.com/i1x064j"
 
 }
 }
