@@ -2,7 +2,7 @@
 "adRate":150,
 "cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 "isRunAd":true,
-"message":"黄瓜视频最新版加密规则已经逆向出来，这两天比较忙，十一要回老家，我尽量在十一假期间把新版本发出来，如果没时间做，就十一假之后吧。感谢大家对 xxlive 的支持~",
+"message":"服务器被墙了，所以导致获取配置失败，当您能看到这条信息的时候，并不会影响你的正常使用，新版可能要十一之后才能发布。\n感谢大家对 xxlive 的支持~",
 "mustInstall":false,
 "storeUrl":"https://www.lanzous.com/i1wpw8d",
 "test":"预留字段",
@@ -18,7 +18,7 @@
 "designation":"http://cnbtkitty.me",
 "shareUrl":"http://104.238.128.165/index.html",
 "zhiKey":"bYBCf115G0",
-"messageId":227,
+"messageId":228,
 "cucumberVersion":"110002101",
 "ads":[{"url":"https://mb.ruilinmm.com/bf333f195f7a4ea5cc937a17593005e9","img":"http://104.238.128.165/01.jpg"}],
 "kami":{
