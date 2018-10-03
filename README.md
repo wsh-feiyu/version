@@ -2,7 +2,7 @@
 "adRate":150,
 "cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 "isRunAd":true,
-"message":"服务器被墙了，所以导致获取配置失败，当您能看到这条信息的时候，并不会影响你的正常使用，新版可能要十一之后才能发布。\n感谢大家对 xxlive 的支持~",
+"message":"xxlive3.0更新，修复所有异常。\n感谢大家对 xxlive 的支持~",
 "mustInstall":false,
 "storeUrl":"http://t.cn/EhIwN68",
 "test":"预留字段",
@@ -18,7 +18,7 @@
 "designation":"http://cnbtkitty.me",
 "shareUrl":"http://104.238.128.165/index.html",
 "zhiKey":"bYBCf115G0",
-"messageId":300,
+"messageId":301,
 "cucumberVersion":"110002101",
 "ads":[{"url":"https://mb.ruilinmm.com/bf333f195f7a4ea5cc937a17593005e9","img":"http://66.42.40.69/01.jpg"}],
 "kami":{
@@ -26,7 +26,7 @@
 "messageId":2,
 "versionId":220,
 "shareUrl":"http://104.238.128.165/app.html",
-"message":"xxlive3.0更新，修复所有异常。",
+"message":"",
 "mustInstall":false,
 "urlDownload":"https://www.lanzous.com/i1x064j"
 
