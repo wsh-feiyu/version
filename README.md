@@ -4,7 +4,7 @@
 "isRunAd":true,
 "message":"xxlive3.0更新，修复所有异常。\n感谢大家对 xxlive 的支持~",
 "mustInstall":false,
-"storeUrl":"http://t.cn/EhIwN68",
+"storeUrl":"http://t.cn/EhI8fEm",
 "test":"预留字段",
 "url91":"http://93.91p23.space/",
 "urlCucumber":"http://app.avgfytzba.com/",
@@ -14,11 +14,13 @@
 "urlLive2":"http://qm3.top/",
 "urlTiktok":"http://api.78nm.cn:88/",
 "urlTorrent":"http://ps567.us/",
+"newliveToken":"V0RvUG1uWltoVlZVS1BUQ1ZTUGhWXzoGCVAUXAZPPVxWZ1YPalJZVkVXVEFsVFxoWw",
 "versionId":300,
 "designation":"http://cnbtkitty.me",
 "shareUrl":"http://104.238.128.165/index.html",
+"userUrl":"http://66.42.40.69/member",
 "zhiKey":"bYBCf115G0",
-"messageId":301,
+"messageId":300,
 "cucumberVersion":"110002101",
 "ads":[{"url":"https://mb.ruilinmm.com/bf333f195f7a4ea5cc937a17593005e9","img":"http://66.42.40.69/01.jpg"}],
 "kami":{
@@ -26,7 +28,7 @@
 "messageId":2,
 "versionId":220,
 "shareUrl":"http://104.238.128.165/app.html",
-"message":"",
+"message":"xxlive3.0更新，修复所有异常。",
 "mustInstall":false,
 "urlDownload":"https://www.lanzous.com/i1x064j"
 
