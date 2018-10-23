@@ -5,7 +5,7 @@
 "isRunAdhub":false,
 "message":"xxlive3.2更新！！\n1.永久免费，无广告，无强制分享，不需要注册登录\n2.修复往期版本 bug，修复抖阴、avbobo\n3.内置聚合直播、腾讯爱奇艺电影解析、番号神器、全国凤楼信息、bt种子、91pron、抖阴、猫咪等等资源\n4.可直接在 app 内跳转下载更新\n5.修复广告乱弹问题\n6.telegram发布群:https://t.me/xxlive5200",
 "mustInstall":false,
-"storeUrl":"http://t.cn/E7TeIVl",
+"storeUrl":"https://www.lanzous.com/i26bz6f",
 "url91":"http://91.p04.space/",
 "urlCucumber":"http://app.avgfytzba.com/",
 "urlCucumberImg":"http://imgup.hgpornhub.com/img",
