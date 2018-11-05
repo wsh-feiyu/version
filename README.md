@@ -1,11 +1,11 @@
 {
-"adRate":300,
-"cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa",
-"isRunAd":false,
-"isRunAdhub":false,
-"message":"xxlive3.2更新！！\n1.永久免费，无广告，无强制分享，不需要注册登录\n2.修复往期版本 bug，修复抖阴、avbobo\n3.内置聚合直播、腾讯爱奇艺电影解析、番号神器、全国凤楼信息、bt种子、91pron、抖阴、猫咪等等资源\n4.可直接在 app 内跳转下载更新\n5.修复广告乱弹问题\n6.telegram发布群:https://t.me/xxlive5200",
+"adRate":1000,
+"isRunAd":true,
+"isRunAdhub":true,
+"message":"2018年11月06日00:00，xxlive3.3更新！！\n1.永久免费，无广告，无强制分享，不需要注册登录\n2.内容持续发力，新增聚合直播3频道、新增成人动漫频道、新增狼人小岛频道、新增 vip 电影解析接口。老版本的小视频、抖阴、猫咪、番号、91pron、迅雷下载等频道持续给力。\n3.请粉丝们帮忙多多分享，你们的分享就是对我的支持\n4.修复广告乱弹问题，被广告困扰的朋友们赶紧儿升级\n5.新版下载地址：http://t.cn/EwuvzkA\n6.telegram发布群:https://t.me/xxlive5200",
 "mustInstall":false,
-"storeUrl":"https://www.lanzous.com/i26bz6f",
+"shareMessage":"2018年11月06日00:00，xxlive3.3更新！！\n1.永久免费，无广告，无强制分享，不需要注册登录\n2.内容持续发力，新增聚合直播3频道、新增成人动漫频道、新增狼人小岛频道、新增 vip 电影解析接口。老版本的小视频、抖阴、猫咪、番号、91pron、迅雷下载等频道持续给力。\n3.请粉丝们帮忙多多分享，你们的分享就是对我的支持\n4.新版下载地址：http://t.cn/EwuvzkA\n5.telegram发布群:https://t.me/xxlive5200";
+"storeUrl":"https://www.lanzous.com/i2ap0tg",
 "url91":"http://91.p04.space/",
 "urlCucumber":"http://app.avgfytzba.com/",
 "urlCucumberImg":"http://imgup.hgpornhub.com/img",
@@ -14,22 +14,14 @@
 "urlLive2":"http://qm3.top/",
 "urlTiktok":"http://api88.iicp.net:88/",
 "urlTorrent":"http://ps567.us/",
-"newliveToken":"V0RvUG1uWltoVlZVS1BUQ1ZRXWgMWT1WX1YTVFEUPFQFZl1faVUKVhNXVEY6BwVtWg",
-"versionId":320,
+"newliveToken":"V0RvUG1uWltoVlZVS1BUQ1YCBmdWCDtTXFkQVVNDOwcCZwpcb1VYABZWAkVsXVFrCw",
+"versionId":330,
 "designation":"http://cnbtkitty.me",
 "shareUrl":"http://66.42.40.69/index.html",
 "userUrl":"http://66.42.40.69/member",
 "zhiKey":"1",
-"messageId":320,
+"fanhaoUrl":"https://avmoo.net/cn/",
+"messageId":330,
 "cucumberVersion":"110002101",
-"kami":{
-"kamiUrl":"http://t.cn/EvXhvGH",
-"messageId":2,
-"versionId":220,
-"shareUrl":"http://104.238.128.165/app.html",
-"message":"xxlive3.0更新，修复所有异常。",
-"mustInstall":false,
-"urlDownload":"https://www.lanzous.com/i1x064j"
-
-}
+"cucumberSeq":"b26ef4afb088d122cbc92C30mC30nDpOvCpa"
 }
