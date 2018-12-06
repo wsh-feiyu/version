@@ -1,8 +1,8 @@
 {
 	"adRate": 300,
 	"isRunAd": true,
-	"message": "2018年12月06日01:00，xxlive3.6更新！！\n1.免费无广告无强制任务无注册登录，\n2.新增有声小说频道、新增热门直播频道，修复聚合直播2、番号。\n3.不用太多解释，老版本内容持续给力。\n4.新版下载地址：http://t.cn/Ey69ywQ\n5.telegram发布群:https://t.me/xxlive5200",
-	"shareMessage":"2018年12月06日01:00，xxlive3.6更新！！\n1.免费无广告无强制任务无注册登录，\n2.新增有声小说频道、新增热门直播频道，修复聚合直播2、番号。\n3.不用太多解释，老版本内容持续给力。\n4.新版下载地址：http://t.cn/Ey69ywQ\n5.telegram发布群:https://t.me/xxlive5200",
+	"message": "欢迎使用 xxlive，在使用的过程中，遇到什么问题请联系代理解决。",
+	"shareMessage":"xxlive，一切尽在不言中，下载地址：",
 	"storeUrl": "http://t.cn/Ey69ywQ",
 	"url91": "http://91.p04.space/",
 	"urlCucumber": "http://app.avgfytzba.com/",
@@ -22,14 +22,8 @@
 	"cucumberVersion": "110002101",
 	"cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 	"ads": [{
-		"url": "https://mb.ruilinmm.com/bf333f195f7a4ea5cc937a17593005e9/#",
-		"img": "http://66.42.40.69/01.jpg"
-	},{
 		"url": "http://45.40.193.37/download.html",
 		"img": "http://66.42.40.69/colaBanner.jpg"
 	}],
-	"launchAd": {
-		"url": "https://down.wydy029.com/gamecenter-release-android-shenlai-5017-bf333f195f7a4ea5cc937a17593005e9.apk",
-		"img": "http://66.42.40.69/02.jpg"
-	},"extraChannel":[{"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"http://45.40.193.37/phone_download.html"}]
+	"extraChannel":[{"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"http://45.40.193.37/phone_download.html"}]
 }
