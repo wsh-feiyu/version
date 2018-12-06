@@ -1,9 +1,10 @@
 {
 	"adRate": 300,
+	"showExtraLaunch":60,
 	"isRunAd": true,
-	"message": "2018年12月06日01:00，xxlive3.6更新！！\n1.免费无广告无强制任务无注册登录，\n2.新增有声小说频道、新增热门直播频道，修复聚合直播2、番号。\n3.不用太多解释，老版本内容持续给力。\n4.新版下载地址：http://t.cn/Ey69ywQ\n5.telegram发布群:https://t.me/xxlive5200",
-	"shareMessage":"2018年12月06日01:00，xxlive3.6更新！！\n1.免费无广告无强制任务无注册登录，\n2.新增有声小说频道、新增热门直播频道，修复聚合直播2、番号。\n3.不用太多解释，老版本内容持续给力。\n4.新版下载地址：http://t.cn/Ey69ywQ\n5.telegram发布群:https://t.me/xxlive5200",
-	"storeUrl": "http://t.cn/Ey69ywQ",
+	"message": "2018年12月06日01:00，xxlive3.6更新！！\n1.免费无广告无强制任务无注册登录，\n2.新增有声小说频道、新增热门直播频道，修复聚合直播2、番号。\n3.不用太多解释，老版本内容持续给力。\n4.新版下载地址：http://t.cn/EyNXpM3\n5.telegram发布群:https://t.me/xxlive5200",
+	"shareMessage":"2018年12月06日01:00，xxlive3.6更新！！\n1.免费无广告无强制任务无注册登录，\n2.新增有声小说频道、新增热门直播频道，修复聚合直播2、番号。\n3.不用太多解释，老版本内容持续给力。\n4.新版下载地址：http://t.cn/EyNXpM3\n5.telegram发布群:https://t.me/xxlive5200",
+	"storeUrl": "http://t.cn/EyNXpM3",
 	"url91": "http://91.p04.space/",
 	"urlCucumber": "http://app.avgfytzba.com/",
 	"urlCucumberImg": "http://imgup.hgpornhub.com/img",
