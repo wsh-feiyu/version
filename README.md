@@ -34,7 +34,7 @@
 		"img": "http://66.42.40.69/02.jpg"
 	},
 "extraChannel":[{"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"http://45.40.193.37/phone_download.html"},
-{"name":"可乐阅读","type":100,"iconUrl":"http://66.42.40.69/ readBanner.png","url":"https://www.lanzous.com/i2ngcxg"},
+{"name":"可乐阅读","type":100,"iconUrl":"http://66.42.40.69/readBanner.png","url":"https://www.lanzous.com/i2ngcxg"},
 {"name":"秀吧直播","type":100,"iconUrl":"http://66.42.40.69/xiuba.png","url":"http://xs.2cq.com/go?13CIGT"}
 
 ]
