@@ -1,8 +1,8 @@
 {
-	"adRate": 2000,
+	"adRate": 200,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "2018年12月23日23:00，xxlive3.7更新！！\n1.修复猫咪视频，丰富抖阴栏目，新增名优馆频道\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2okjqb\n4.telegram发布群:https://t.me/xxlive\n5.最近破解版猖狂，请大家广而告之。",
+	"message": "秀吧直播推广最后两天了，没支持的小伙伴赶紧儿支持一波哦。\n可乐影视目前好像技术遇到了问题，正在修复，请耐心等待。",
 	"shareMessage":"2018年12月23日23:00，xxlive3.7更新！！\n1.修复猫咪视频，丰富抖阴栏目，新增名优馆频道\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2okjqb\n4.telegram发布群:https://t.me/xxlive\n5.最近破解版猖狂，请大家广而告之。",
 	"storeUrl": "http://t.cn/E4jCjG2",
 	"url91": "https://91.91p03.club/",
@@ -35,8 +35,7 @@
 	},
 "extraChannel":[
 {"name":"九秀直播","type":101,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"http://www.69xiu.com/extension/download?from=test538"},
-{"name":"版本更新","type":100,"iconUrl":"http://66.42.40.69/live.png","url":"https://www.lanzous.com/i2okjqb"}
-
+{"name":"秀吧直播","type":100,"iconUrl":"http://66.42.40.69/xiuba.png","url":"http://xs.2cq.com/go?13CIGT"}
 
 ]
 }
