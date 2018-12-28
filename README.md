@@ -1,5 +1,5 @@
 {
-	"adRate": 150,
+	"adRate": 1500,
 	"showExtraLaunch":0,
 	"isRunAd": true,
 	"message": "秀吧直播推广最后两天了，没支持的小伙伴赶紧儿支持一波哦。马上要过年了，我想加个鸡腿~\n可乐影视目前好像技术遇到了问题，正在修复，请耐心等待。",
@@ -29,6 +29,11 @@
 		"url": "http://45.40.193.37/download.html",
 		"img": "http://66.42.40.69/colaBanner.jpg"
 	}],
+	"launchAd": {
+		"url": "https://down.wydy029.com/gamecenter-release-android-shenlai-5017-bf333f195f7a4ea5cc937a17593005e9.apk",
+		"img": "http://66.42.40.69/02.jpg"
+	},
+
 "extraChannel":[
 {"name":"九秀直播","type":101,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"http://www.69xiu.com/extension/download?from=test538"},
 {"name":"秀吧直播","type":100,"iconUrl":"http://66.42.40.69/xiuba.png","url":"http://xs.2cq.com/go?13CIGT"}
