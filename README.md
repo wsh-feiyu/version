@@ -13,7 +13,7 @@
 	"urlLive2": "http://qm3.top/",
 	"urlTiktok": "http://api88.iicp.net:88/",
 	"urlTorrent": "http://ps567.us/",
-	"newliveToken": "af931f71ada90b9e9204c74be8fb4df4",
+	"newliveToken": "39cbc6c38c0f2ed58f4d422d97d40aa9",
 	"versionId": 370,
 	"designation": "http://cnbtkitty.me",
 	"shareUrl": "http://66.42.40.69/index.html",
