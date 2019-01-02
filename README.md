@@ -35,7 +35,7 @@
 	},
 
 "extraChannel":[
-{"name":"快乐彩播","type":100,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
+{"name":"快乐彩播","type":101,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
 {"name":"优艺直播","type":100,"iconUrl":"http://66.42.40.69/ue.png","url":"http://d.youyi520.com/a/c/52/UElive.com_52335.apk"},
 {"name":"星秀直播","type":100,"iconUrl":"http://66.42.40.69/xingxiu.png","url":"http://www.yjdzz.com/apk9/9800097.apk"}
 
