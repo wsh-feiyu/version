@@ -2,7 +2,7 @@
 	"adRate": 1500,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "秀吧直播推广最后两天了，没支持的小伙伴赶紧儿支持一波哦。马上要过年了，我想加个鸡腿~\n可乐影视目前好像技术遇到了问题，正在修复，请耐心等待。",
+	"message": "快乐彩播 大家有兴趣可以去体验一下，搏一搏单车变摩托，小充了100，玩了两天赚了几百块钱，rp 不好的就别来试水了，你们充值我提成不高。",
 	"shareMessage":"2018年12月23日23:00，xxlive3.7更新！！\n1.修复猫咪视频，丰富抖阴栏目，新增名优馆频道\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2okjqb\n4.telegram发布群:https://t.me/xxlive\n5.最近破解版猖狂，请大家广而告之。",
 	"storeUrl": "http://t.cn/E4jCjG2",
 	"url91": "https://91.91p03.club/",
@@ -19,7 +19,7 @@
 	"shareUrl": "http://66.42.40.69/index.html",
 	"userUrl": "http://66.42.40.69/member",
 	"fanhaoUrl": "https://avmoo.xyz/cn/",
-	"messageId": 370,
+	"messageId": 371,
 	"cucumberVersion": "110002101",
 	"cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 	"ads": [{
@@ -35,8 +35,9 @@
 	},
 
 "extraChannel":[
-{"name":"九秀直播","type":101,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"http://www.69xiu.com/extension/download?from=test538"},
-{"name":"秀吧直播","type":100,"iconUrl":"http://66.42.40.69/xiuba.png","url":"http://xs.2cq.com/go?13CIGT"}
+{"name":"快乐彩播","type":100,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
+{"name":"优艺直播","type":100,"iconUrl":"http://66.42.40.69/ue.png","url":"http://d.youyi520.com/a/c/52/UElive.com_52335.apk"},
+{"name":"星秀直播","type":100,"iconUrl":"http://66.42.40.69/xingxiu.png","url":"http://www.yjdzz.com/apk9/9800097.apk"}
 
 ]
 }
