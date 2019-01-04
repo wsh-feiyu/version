@@ -2,7 +2,7 @@
 	"adRate": 1500,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "快乐彩播 大家有兴趣可以去体验一下，搏一搏单车变摩托，小充了100，玩了两天赚了几百块钱，rp 不好的就别来试水了，你们充值我提成不高。",
+	"message": "【快乐彩播】发福利了，注册就送20现金。官方彩票，直播开奖。大家有兴趣可以去体验下，第一把10块就中了195。最高可以下2000，中了就得39000，简单刺激，好玩易中。",
 	"shareMessage":"2018年12月23日23:00，xxlive3.7更新！！\n1.修复猫咪视频，丰富抖阴栏目，新增名优馆频道\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2okjqb\n4.telegram发布群:https://t.me/xxlive\n5.最近破解版猖狂，请大家广而告之。",
 	"storeUrl": "http://t.cn/E4jCjG2",
 	"url91": "https://91.91p03.club/",
@@ -36,8 +36,8 @@
 
 "extraChannel":[
 {"name":"快乐彩播","type":101,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
-{"name":"优艺直播","type":100,"iconUrl":"http://66.42.40.69/ue.png","url":"http://d.youyi520.com/a/c/52/UElive.com_52335.apk"},
-{"name":"星秀直播","type":100,"iconUrl":"http://66.42.40.69/xingxiu.png","url":"http://www.yjdzz.com/apk9/9800097.apk"}
+{"name":"秀吧直播","type":100,"iconUrl":"http://66.42.40.69/xiuba.png","url":"http://xs.2cq.com/go?13CIGT"},
+{"name":"乐嗨秀场","type":100,"iconUrl":"http://66.42.40.69/lehai.png","url":"http://www.jobi5.com/down+101.html?c=208105"}
 
 ]
 }
