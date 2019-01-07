@@ -35,9 +35,9 @@
 	},
 
 "extraChannel":[
-{"name":"快乐彩播","type":101,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
+{"name":"快乐彩播","type":100,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
 {"name":"秀吧直播","type":100,"iconUrl":"http://66.42.40.69/xiuba.png","url":"http://xs.2cq.com/go?13CIGT"},
-{"name":"乐嗨秀场","type":100,"iconUrl":"http://66.42.40.69/lehai.png","url":"http://www.jobi5.com/down+101.html?c=208105"}
+{"name":"聊客直播","type":101,"iconUrl":"http://66.42.40.69/liaoke.png","url":"https://apk.idmim.com/lk/124.apk"}
 
 ]
 }
