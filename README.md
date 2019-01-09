@@ -2,7 +2,7 @@
 	"adRate": 1500,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "2019年01月09日00：00，xxlive3.8更新！！\n猫咪视频更新了，在猫咪视频主页右上角做任务会获得任务积分，以后新增加的福利会只对积分量达到1000+的真爱粉开发哦，目前版本的福利永远无条件开发\n花魁直播昨天上错下载地址了，已经支持过的小伙伴烦请帮忙重新下载体验一会",
+	"message": "1.2019年01月09日00：00，xxlive3.8更新！！\n\n2.猫咪视频更新了，在猫咪视频主页右上角做任务会获得任务积分，以后新增加的福利会只对积分量达到1000+的真爱粉开放哦，目前版本的福利永远无条件开放\n\n3.花魁直播昨天上错下载地址了，已经支持过的小伙伴烦请帮忙重新下载体验一会",
 	"shareMessage":"2019年01月09日00：00，xxlive3.8更新！！\n1.修复所有直播频道、新增电视 tv，优化诸多细节\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2toe6f\n4.telegram发布群:https://t.me/xxlive\n5.最近破解版猖狂，请大家广而告之。",
 	"storeUrl": "http://t.cn/EGup5Dq",
 	"url91": "https://91.91p03.club/",
@@ -19,7 +19,7 @@
 	"shareUrl": "http://66.42.40.69/index.html",
 	"userUrl": "http://66.42.40.69/member",
 	"fanhaoUrl": "https://avmoo.xyz/cn/",
-	"messageId": 380,
+	"messageId": 381,
 	"cucumberVersion": "110002101",
 	"cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 	"ads": [{
