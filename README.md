@@ -34,7 +34,7 @@
 "extraChannel":[
 {"name":"快乐彩播","type":100,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
 {"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
-{"name":"聊客直播","type":100,"iconUrl":"http://66.42.40.69/liaoke.png","url":"https://apk.idmim.com/lk/124.apk"},
+{"name":"秀色直播","type":100,"iconUrl":"http://66.42.40.69/xiuse.png","url":"http://d1.showself.com/download/showself_android-s243319_release.apk"},
 {"name":"猫咪电影","type":100,"iconUrl":"http://66.42.40.69/maomi.png","url":"https://www.lanzous.com/i2tzxla"}
 
 
