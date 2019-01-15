@@ -23,18 +23,18 @@
 	"cucumberVersion": "110002101",
 	"cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 	"ads": [{
-		"url": "https://mb.ruilinmm.com/bf333f195f7a4ea5cc937a17593005e9/#",
+		"url": "https://mob22.xdhtxx.com/bf333f195f7a4ea5cc937a17593005e9/",
 		"img": "http://66.42.40.69/01.jpg"
 	}],
 	"launchAd": {
-		"url": "https://down.wydy029.com/gamecenter-release-android-shenlai-5017-bf333f195f7a4ea5cc937a17593005e9.apk",
-		"img": "http://66.42.40.69/02.jpg"
+		"url": "https://down.xnnyouhui.com/gamecenter-release-android-tuila-5222-b83658f62d6edcbfe94988fd01c0fbda.apk",
+		"img": "http://66.42.40.69/04.jpg"
 	},
 
 "extraChannel":[
 {"name":"快乐彩播","type":100,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
 {"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
-{"name":"秀色直播","type":100,"iconUrl":"http://66.42.40.69/xiuse.png","url":"http://d1.showself.com/download/showself_android-s243319_release.apk"},
+{"name":"红人直播","type":100,"iconUrl":"http://66.42.40.69/hongren.png","url":"http://dd.xdsba.net/down+101.html?c=206270"},
 {"name":"猫咪电影","type":100,"iconUrl":"http://66.42.40.69/maomi.png","url":"https://www.lanzous.com/i2tzxla"}
 
 
