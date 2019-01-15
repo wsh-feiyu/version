@@ -28,7 +28,7 @@
 	}],
 	"launchAd": {
 		"url": "https://down.xnnyouhui.com/gamecenter-release-android-tuila-5222-b83658f62d6edcbfe94988fd01c0fbda.apk",
-		"img": "http://66.42.40.69/04.jpg"
+		"img": "http://66.42.40.69/04.png"
 	},
 
 "extraChannel":[
