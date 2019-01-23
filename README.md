@@ -19,7 +19,7 @@
 	"shareUrl": "http://66.42.40.69/index.html",
 	"userUrl": "http://66.42.40.69/member",
 	"fanhaoUrl": "https://avmoo.xyz/cn/",
-	"messageId": 382,
+	"messageId": 383,
 	"cucumberVersion": "110002101",
 	"cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 	"ads": [{
@@ -65,6 +65,38 @@
 "iconUrl":"http://66.42.40.69/ue.png",
 "packetName":"com.uelive.showvideo.activity",
 "url":"http://d.youyi520.com/a/c/52/UElive.com_52370.apk"
+},
+{"condition":"下载注册",
+"iconUrl":"http://66.42.40.69/daren.png",
+"integral":50,
+"integral2":8,
+"name":"达人直播",
+"packetName":"com.uelive.talentlive.activity",
+"url":"http://d6.youyi520.com/a/c/50/daren_50273.apk"
+},
+{"condition":"下载注册",
+"iconUrl":"http://66.42.40.69/hongren.png",
+"integral":50,
+"integral2":8,
+"name":"红人直播",
+"packetName":"com.hongren.ui",
+"url":"http://dd.xdsba.net/down+101.html?c=206270"
+},
+{"condition":"下载注册",
+"iconUrl":"http://66.42.40.69/lehai.png",
+"integral":50,
+"integral2":8,
+"name":"乐嗨直播",
+"packetName":"com.lehai.ui",
+"url":"http://d1.showself.com/download/lehai/lehai_android-s202445_release.apk"
+},
+{"condition":"下载注册",
+"iconUrl":"http://66.42.40.69/doufu.png",
+"integral":50,
+"integral2":8,
+"name":"豆腐直播",
+"packetName":"com.roger.china.doufu",
+"url":"http://www.yjdzz.com/apk9/9800125.apk"
 }
 ]
 
