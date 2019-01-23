@@ -5,7 +5,7 @@
 	"message": "性生活时长不太满意的朋友可以试试喷雾神油，亲测有效🙈，价格有点小贵，但是实在。",
 	"shareMessage":"2019年01月09日00：00，xxlive3.8更新！！\n1.修复所有直播频道、新增电视 tv，优化诸多细节\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2toe6f\n4.telegram发布群:https://t.me/xxlive\n5.最近破解版猖狂，请大家广而告之。",
 	"storeUrl": "http://t.cn/EGup5Dq",
-	"url91": "https://91.91p03.club/",
+	"url91": "https://91.p21.rocks/",
 	"urlCucumber": "http://app.avgfytzba.com/",
 	"urlCucumberImg": "http://imgup.hgpornhub.com/img",
 	"urlCucumberVideo": "http://101.110.118.69/videoup.huangguapro.com/video/",
