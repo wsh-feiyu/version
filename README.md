@@ -26,7 +26,7 @@
 		"url": "https://mob22.xdhtxx.com/bf333f195f7a4ea5cc937a17593005e9/",
 		"img": "http://66.42.40.69/01.jpg"
 	},{
-		"url": "https://m.tb.cn/h.3GTRMrs?sm=11ce47",
+		"url": "https://detail.tmall.com/item.htm?id=581261847489&ut_sk=1.Wpf5QW90ww4DABqu8A5PJ4TV_21380790_1548344394027.TaoPassword-Weixin.1&sourceType=item&price=59-139&origin_price=129-269&suid=6873E91B-AE90-472E-844C-6F5EE28EC904&un=3c239db939c6146ab4d2888dab66570f&share_crt_v=1&sp_tk=77%20lSllmdmJzVVh3ODHvv6U=&cpp=1&shareurl=true&spm=a313p.22.iy.1007457614637&short_name=h.3GTRMrs&sm=11ce47&app=chrome",
 		"img": "http://66.42.40.69/tb_av_banner.jpg"
 	}],
 	"launchAd": {
@@ -39,7 +39,7 @@
 {"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
 {"name":"九秀直播","type":100,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"https://www.9xiu.com/spread/download?f=test386"},
 {"name":"猫咪电影","type":100,"iconUrl":"http://66.42.40.69/maomi.png","url":"https://www.lanzous.com/i2tzxla"},
-{"name":"增大持久","type":100,"iconUrl":"http://66.42.40.69/tb_av_icon.png","url":"https://m.tb.cn/h.3GTRMrs?sm=11ce47"}
+{"name":"增大持久","type":100,"iconUrl":"http://66.42.40.69/tb_av_icon.png","url":"https://detail.tmall.com/item.htm?id=581261847489&ut_sk=1.Wpf5QW90ww4DABqu8A5PJ4TV_21380790_1548344394027.TaoPassword-Weixin.1&sourceType=item&price=59-139&origin_price=129-269&suid=6873E91B-AE90-472E-844C-6F5EE28EC904&un=3c239db939c6146ab4d2888dab66570f&share_crt_v=1&sp_tk=77%20lSllmdmJzVVh3ODHvv6U=&cpp=1&shareurl=true&spm=a313p.22.iy.1007457614637&short_name=h.3GTRMrs&sm=11ce47&app=chrome"}
 ],
 "task":[
 {"condition":"下载注册",
