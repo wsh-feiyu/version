@@ -4,7 +4,7 @@
 	"isRunAd": true,
 	"message": "2019年01月25日00：00，xxlive3.9更新！！\n1.修复所有直播频道、新增 JAViewer 频道，优化诸多细节\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2z4jej\n4.telegram发布群:https://t.me/xxlive",
 	"shareMessage":"2019年01月25日00：00，xxlive3.9更新！！\n1.修复所有直播频道、新增 JAViewer 频道，优化诸多细节\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2z4jej\n4.telegram发布群:https://t.me/xxlive",
-	"storeUrl": "http://t.cn/EGup5Dq",
+	"storeUrl": "http://t.cn/E5gZ3P2",
 	"url91": "https://91.p21.rocks/",
 	"urlCucumber": "http://app.avgfytzba.com/",
 	"urlCucumberImg": "http://imgup.hgpornhub.com/img",
