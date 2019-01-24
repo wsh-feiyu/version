@@ -26,8 +26,8 @@
 		"url": "https://mob22.xdhtxx.com/bf333f195f7a4ea5cc937a17593005e9/",
 		"img": "http://66.42.40.69/01.jpg"
 	},{
-		"url": "https://detail.tmall.com/item.htm?id=579667013575&spm=a230r.7195193.1997079397.10.3fc2155a9y4oxN&abbucket=7",
-		"img": "http://66.42.40.69/tb_banner.jpg"
+		"url": "https://m.tb.cn/h.3GTRMrs?sm=11ce47",
+		"img": "http://66.42.40.69/tb_av_banner.jpg"
 	}],
 	"launchAd": {
 		"url": "https://down.xnnyouhui.com/gamecenter-release-android-tuila-5222-b83658f62d6edcbfe94988fd01c0fbda.apk",
@@ -39,7 +39,7 @@
 {"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
 {"name":"九秀直播","type":100,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"https://www.9xiu.com/spread/download?f=test386"},
 {"name":"猫咪电影","type":100,"iconUrl":"http://66.42.40.69/maomi.png","url":"https://www.lanzous.com/i2tzxla"},
-{"name":"喷雾神油","type":100,"iconUrl":"http://66.42.40.69/tb_icon.png","url":"https://detail.tmall.com/item.htm?id=579667013575&spm=a230r.7195193.1997079397.10.3fc2155a9y4oxN&abbucket=7"}
+{"name":"增大持久","type":100,"iconUrl":"http://66.42.40.69/tb_av_icon.png","url":"https://m.tb.cn/h.3GTRMrs?sm=11ce47"}
 ],
 "task":[
 {"condition":"下载注册",
