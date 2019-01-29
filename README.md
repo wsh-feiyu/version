@@ -2,7 +2,7 @@
 	"adRate": 15000,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "2019年01月25日00：00，xxlive3.9更新！！\n1.修复所有直播频道、新增 JAViewer 频道，优化诸多细节\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2z4jej\n4.telegram发布群:https://t.me/xxlive",
+	"message": "1.修复91pron\n2.猫咪电影用不了的朋友，近期会发布新版猫咪电影，功能非常强的\n3.新加了几个广告 app，大家帮忙支持下",
 	"shareMessage":"2019年01月25日00：00，xxlive3.9更新！！\n1.修复所有直播频道、新增 JAViewer 频道，优化诸多细节\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2z4jej\n4.telegram发布群:https://t.me/xxlive",
 	"storeUrl": "http://t.cn/E5gZ3P2",
 	"url91": "https://e0125.p16.rocks/",
@@ -19,7 +19,7 @@
 	"shareUrl": "http://66.42.40.69/index.html",
 	"userUrl": "http://66.42.40.69/member",
 	"fanhaoUrl": "https://avmoo.xyz/cn/",
-	"messageId": 390,
+	"messageId": 391,
 	"cucumberVersion": "110002101",
 	"cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 	"ads": [{
