@@ -2,7 +2,7 @@
 	"adRate": 15000,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "1.修复91pron\n2.猫咪电影用不了的朋友，近期会发布新版猫咪电影，功能非常强的\n3.新加了几个广告 app，大家帮忙支持下",
+	"message": "祝大家除夕快乐\n对 xxlive 有什么建议可以去广场置顶留言，你们的留言我都会去看的。",
 	"shareMessage":"2019年01月25日00：00，xxlive3.9更新！！\n1.修复所有直播频道、新增 JAViewer 频道，优化诸多细节\n2.老频道持续给力\n3.下载地址：https://www.lanzous.com/i2z4jej\n4.telegram发布群:https://t.me/xxlive",
 	"storeUrl": "http://t.cn/E5gZ3P2",
 	"url91": "https://e0125.p16.rocks/",
@@ -19,7 +19,7 @@
 	"shareUrl": "http://66.42.40.69/index.html",
 	"userUrl": "http://66.42.40.69/member",
 	"fanhaoUrl": "https://avmoo.xyz/cn/",
-	"messageId": 391,
+	"messageId": 392,
 	"cucumberVersion": "110002101",
 	"cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
 	"ads": [{
@@ -32,10 +32,8 @@
 	},
 
 "extraChannel":[
-{"name":"快乐彩播","type":100,"iconUrl":"http://66.42.40.69/happy.png","url":"https://888.xy86888.com"},
 {"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
-{"name":"趣享影视","type":100,"iconUrl":"http://66.42.40.69/quxiang.png","url":"http://zpyod.cn:802/mqqz/?q=zw_38"},
-{"name":"猫咪电影","type":100,"iconUrl":"http://66.42.40.69/maomi.png","url":"https://www.lanzous.com/i2tzxla"}
+{"name":"趣享影视","type":100,"iconUrl":"http://66.42.40.69/quxiang.png","url":"http://zpyod.cn:802/mqqz/?q=zw_38"}
 ],
 "task":[
 {"condition":"下载注册",
