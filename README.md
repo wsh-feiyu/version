@@ -2,7 +2,7 @@
 	"adRate": 15000,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "91pron，直播都已远程修复，请大家放心使用。\n下版本将恢复名优馆，同时将会集成青蛙云。\n看电影追剧的同学，墙裂推荐 可乐影视 ，谁用谁知道。\n我在 血战沙巴克 里被人砍了，请求大佬来带我找回场子~",
+	"message": "1.91pron、直播都已远程修复，请大家放心使用。\n2.下版本将恢复名优馆，同时将会集成青蛙云。\n3.看电影追剧的同学，墙裂推荐“可乐影视”，谁用谁知道。\n4.我在“血战沙巴克”里被人砍了，请求大佬来带我找回场子~",
 	"shareMessage":"2019年02月13日，xxlive4.0更新！！\n1.恢复稳定直播\n2.新增游戏直播频道\n3.修复小米手机闪退问题\n4.下载地址：https://www.lanzous.com/i34rx7e\n5.telegram发布群:https://t.me/xxlive",
 	"storeUrl": "http://t.cn/EcgsMAn",
 	"versionId": 400,
