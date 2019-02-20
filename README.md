@@ -16,6 +16,8 @@
 	"urlTiktok": "http://api88.iicp.net:88/",
 	"urlTorrent": "http://ps567.us/",
 	"newliveToken": "eca38cd625c17e209ecca22706a83270",
+	"avLiveToken":"429e34970f1c5b3e7ef49d002004ae67",
+	"hookLiveToken":"a639f9cebfb6f3eb2f411ca10987771c",
 	"designation": "http://cnbtkitty.me",
 	"shareUrl": "http://66.42.40.69/index.html",
 	"userUrl": "http://66.42.40.69/member",
@@ -25,6 +27,9 @@
 	"ads": [{
 		"url": "https://mob22.xdhtxx.com/bf333f195f7a4ea5cc937a17593005e9/",
 		"img": "http://66.42.40.69/01.jpg"
+	},{
+		"url": "http://mob26.kmrxb.com/a4577cc2d917ec24459478b4971ab272",
+		"img": "http://66.42.40.69/05.jpg"
 	},{
 		"url": "https://www.lanzous.com/i34g01e",
 		"img": "http://66.42.40.69/colaBanner.jpg"
@@ -36,7 +41,7 @@
 
 "extraChannel":[
 {"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
-{"name":"趣享影视","type":100,"iconUrl":"http://66.42.40.69/quxiang.png","url":"http://zpyod.cn:802/mqqz/?q=zw_38"},
+{"name":"寻剑问情","type":100,"iconUrl":"http://66.42.40.69/ic_game1.png","url":"http://qudao3.7ahy.com/a/40/9039/g.html"},
 {"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"https://www.lanzous.com/i34g01e"}
 ],
 "task":[
