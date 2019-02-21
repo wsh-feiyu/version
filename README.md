@@ -2,11 +2,11 @@
 	"adRate": 15000,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "1.91pron、直播都已远程修复，请大家放心使用。\n2.下版本将恢复名优馆，同时将会集成青蛙云。\n3.看电影追剧的同学，墙裂推荐“可乐影视”，谁用谁知道。\n4.我在“血战沙巴克”里被人砍了，请求大佬来带我找回场子~",
+	"message": "1.暧色看片有病毒，请立即停止使用并卸载，被误扣话费的请电话给10086/10010人工客服申请退还，以后会加强对推广软件的审核。\n\n2.VIP 电影频道不会再做维护更新，有看电影需求的可以用可乐影视，真的好用。",
 	"shareMessage":"2019年02月13日，xxlive4.0更新！！\n1.恢复稳定直播\n2.新增游戏直播频道\n3.修复小米手机闪退问题\n4.下载地址：https://www.lanzous.com/i34rx7e\n5.telegram发布群:https://t.me/xxlive",
 	"storeUrl": "http://t.cn/EcgsMAn",
 	"versionId": 400,
-	"messageId": 401,
+	"messageId": 402,
 	"url91": "https://0228.p15.rocks/",
 	"urlCucumber": "http://app.avgfytzba.com/",
 	"urlCucumberImg": "http://imgup.hgpornhub.com/img",
@@ -42,7 +42,6 @@
 "extraChannel":[
 {"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
 {"name":"寻剑问情","type":100,"iconUrl":"http://66.42.40.69/ic_game1.png","url":"http://qudao3.7ahy.com/a/40/9039/g.html"},
-{"name":"血战沙巴克","type":100,"iconUrl":"http://66.42.40.69/ic_game2.png","url":"http://qudao.7ahy.com/newgame/index/agid/9039/id/20.html"},
 {"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"https://www.lanzous.com/i34g01e"}
 ],
 "task":[
