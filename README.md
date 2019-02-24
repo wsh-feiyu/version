@@ -2,11 +2,12 @@
 	"adRate": 15000,
 	"showExtraLaunch":0,
 	"isRunAd": true,
-	"message": "1.暧色看片有病毒，请立即停止使用并卸载，被误扣话费的请电话给10086/10010人工客服申请退还，以后会加强对推广软件的审核。\n\n2.VIP 电影频道不会再做维护更新，有看电影需求的可以用可乐影视，真的好用。",
+	"isShowShare": true,
+	"message": "1.VIP 电影频道不会再做维护更新，有看电影需求的可以用可乐影视，真的好用。\n2.麻烦铁粉们支持一下优艺直播和九秀直播，下载注册即可，体验一会即可。",
 	"shareMessage":"2019年02月13日，xxlive4.0更新！！\n1.恢复稳定直播\n2.新增游戏直播频道\n3.修复小米手机闪退问题\n4.下载地址：https://www.lanzous.com/i34rx7e\n5.telegram发布群:https://t.me/xxlive",
 	"storeUrl": "http://t.cn/EcgsMAn",
 	"versionId": 400,
-	"messageId": 402,
+	"messageId": 403,
 	"url91": "https://0228.p15.rocks/",
 	"urlCucumber": "http://app.avgfytzba.com/",
 	"urlCucumberImg": "http://imgup.hgpornhub.com/img",
@@ -33,6 +34,9 @@
 	},{
 		"url": "https://www.lanzous.com/i34g01e",
 		"img": "http://66.42.40.69/colaBanner.jpg"
+	},{
+		"url": "http://v88696.com/",
+		"img": "http://66.42.40.69/wzbanner.jpg"
 	}],
 	"launchAd": {
 		"url": "https://down.xnnyouhui.com/gamecenter-release-android-tuila-5222-b83658f62d6edcbfe94988fd01c0fbda.apk",
@@ -41,8 +45,11 @@
 
 "extraChannel":[
 {"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
+{"name":"优艺直播","type":100,"iconUrl":"http://66.42.40.69/ue.png","url":"http://d2.youyi520.com/a/c/53/UElive.com_53287.apk"},
+{"name":"九秀直播","type":100,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"https://www.9xiu.com/spread/download?f=test325"},
 {"name":"寻剑问情","type":100,"iconUrl":"http://66.42.40.69/ic_game1.png","url":"http://qudao3.7ahy.com/a/40/9039/g.html"},
-{"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"https://www.lanzous.com/i34g01e"}
+{"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"https://www.lanzous.com/i34g01e"},
+{"name":"美女网赚","type":100,"iconUrl":"http://66.42.40.69/wangzhuan.jpg","url":"http://v88696.com/"}
 ],
 "task":[
 {"condition":"下载注册",
