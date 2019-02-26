@@ -3,7 +3,7 @@
 	"showExtraLaunch":0,
 	"isRunAd": true,
 	"isShowShare": true,
-	"message": "1.VIP 电影频道不会再做维护更新，有看电影需求的可以用可乐影视，真的好用。\n2.麻烦铁粉们支持一下优艺直播和九秀直播，下载注册即可，体验一会即可。",
+	"message": "1.VIP 电影频道不会再做维护更新，有看电影需求的可以用可乐影视，真的好用。",
 	"shareMessage":"2019年02月13日，xxlive4.0更新！！\n1.恢复稳定直播\n2.新增游戏直播频道\n3.修复小米手机闪退问题\n4.下载地址：https://www.lanzous.com/i34rx7e\n5.telegram发布群:https://t.me/xxlive",
 	"storeUrl": "http://t.cn/EcgsMAn",
 	"versionId": 400,
@@ -44,10 +44,10 @@
 	},
 
 "extraChannel":[
-{"name":"花魁直播","type":100,"iconUrl":"http://66.42.40.69/huakui.png","url":"https://apk.huakuitv.com/channel/hkfy28.apk"},
-{"name":"优艺直播","type":100,"iconUrl":"http://66.42.40.69/ue.png","url":"http://d2.youyi520.com/a/c/53/UElive.com_53287.apk"},
+{"name":"聊客直播","type":100,"iconUrl":"http://66.42.40.69/liaoke.png","url":"https://apk.wenzhouer.cn/lk/136.apk"},
+{"name":"优艺直播","type":100,"iconUrl":"http://66.42.40.69/ue.png","url":"http://d.youyi520.com/a/c/52/UElive.com_52365.apk"},
 {"name":"九秀直播","type":100,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"https://www.9xiu.com/spread/download?f=test325"},
-{"name":"寻剑问情","type":100,"iconUrl":"http://66.42.40.69/ic_game1.png","url":"http://qudao3.7ahy.com/a/40/9039/g.html"},
+{"name":"浴血龙城","type":100,"iconUrl":"http://66.42.40.69/ic_game2.png","url":"http://qudao3.7ahy.com/a/42/8961/g.html"},
 {"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"https://www.lanzous.com/i34g01e"},
 {"name":"美女网赚","type":100,"iconUrl":"http://66.42.40.69/wangzhuan.jpg","url":"http://v88696.com/"}
 ],
