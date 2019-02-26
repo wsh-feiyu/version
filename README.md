@@ -47,7 +47,7 @@
 {"name":"聊客直播","type":100,"iconUrl":"http://66.42.40.69/liaoke.png","url":"https://apk.wenzhouer.cn/lk/136.apk"},
 {"name":"优艺直播","type":100,"iconUrl":"http://66.42.40.69/ue.png","url":"http://d.youyi520.com/a/c/52/UElive.com_52365.apk"},
 {"name":"九秀直播","type":100,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"https://www.9xiu.com/spread/download?f=test325"},
-{"name":"浴血龙城","type":100,"iconUrl":"http://66.42.40.69/ic_game2.png","url":"http://qudao3.7ahy.com/a/42/8961/g.html"},
+{"name":"浴血龙城","type":100,"iconUrl":"http://66.42.40.69/ic_game2.png","url":"http://qudao3.7ahy.com/a/42/9039/g.html"},
 {"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"https://www.lanzous.com/i34g01e"},
 {"name":"美女网赚","type":100,"iconUrl":"http://66.42.40.69/wangzhuan.jpg","url":"http://v88696.com/"}
 ],
