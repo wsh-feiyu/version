@@ -44,7 +44,11 @@
 {"name":"九秀直播","type":100,"iconUrl":"http://66.42.40.69/jiuxiu.png","url":"https://www.9xiu.com/spread/download?f=test325"},
 {"name":"浴血龙城","type":100,"iconUrl":"http://66.42.40.69/ic_game2.png","url":"http://qudao3.7ahy.com/a/42/9039/g.html"},
 {"name":"可乐影视","type":100,"iconUrl":"http://66.42.40.69/cloa.png","url":"https://www.lanzous.com/i34g01e"},
-{"name":"美女网赚","type":100,"iconUrl":"http://66.42.40.69/wangzhuan.jpg","url":"http://v88696.com/"}
+{"name":"美女网赚","type":100,"iconUrl":"http://66.42.40.69/wangzhuan.jpg","url":"http://v88696.com/"},
+{"name":"版本更新","type":100,"iconUrl":"http://66.42.40.69/xxlive.png","url":"http://t.cn/EfRZ5ff"},
+{"name":"xxlive4.1","type":100,"iconUrl":"http://66.42.40.69/xxlive.png","url":"http://t.cn/EfRZ5ff"},
+{"name":"正版更新","type":100,"iconUrl":"http://66.42.40.69/xxlive.png","url":"http://t.cn/EfRZ5ff"},
+{"name":"点击这里","type":100,"iconUrl":"http://66.42.40.69/xxlive.png","url":"http://t.cn/EfRZ5ff"}
 ],
 "task":[
 {"condition":"下载注册",
