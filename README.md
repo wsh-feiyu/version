@@ -1,19 +1,14 @@
 {
-	"adRate": 15000,
+	"adRate": 400,
 	"showExtraLaunch":0,
 	"isRunAd": true,
 	"isShowShare": true,
-	"message": "1.VIP 电影频道不会再做维护更新，有看电影需求的可以用可乐影视，真的好用。",
-	"shareMessage":"2019年02月13日，xxlive4.0更新！！\n1.恢复稳定直播\n2.新增游戏直播频道\n3.修复小米手机闪退问题\n4.下载地址：https://www.lanzous.com/i34rx7e\n5.telegram发布群:https://t.me/xxlive",
-	"storeUrl": "http://t.cn/EcgsMAn",
-	"versionId": 400,
-	"messageId": 403,
+	"message": "xxlive4.1更新！！！\n1.修复名优馆、新增青蛙云、云小说频道。\n2.新增综合频道二，聚合老美直播、恋恋视频、福利一区、福利二区、文字小说等等数十个频道。\n3.下载地址：http://t.cn/EfRZ5ff\n4.telegram发布群:https://t.me/xxlive\n5.近期盗版猖狂，老版本将逐步停止使用，请尽快更新到最新版本。\n6.欢迎邮件反馈盗版 xxlive 下载链接",
+	"shareMessage":"xxlive4.1更新！！！\n1.修复名优馆、新增青蛙云、云小说频道。2.新增综合频道二，聚合老美直播、恋恋视频、福利一区、福利二区、文字小说等等数十个频道。\n3.下载地址：http://t.cn/EfRZ5ff\n4.telegram发布群:https://t.me/xxlive",
+	"storeUrl": "http://t.cn/EfRZ5ff",
+	"versionId": 410,
+	"messageId": 410,
 	"url91": "https://0228.p15.rocks/",
-	"urlCucumber": "http://app.avgfytzba.com/",
-	"urlCucumberImg": "http://imgup.hgpornhub.com/img",
-	"urlCucumberVideo": "http://101.110.118.69/videoup.huangguapro.com/video/",
-	"urlDownload": "https://raw.githubusercontent.com/xxlive520/version/master/xxlive1.2.apk",
-	"urlLive2": "http://qm3.top/",
 	"urlTiktok": "http://api88.iicp.net:88/",
 	"urlTorrent": "http://ps567.us/",
 	"newliveToken": "eca38cd625c17e209ecca22706a83270",
@@ -108,6 +103,11 @@
 "packetName":"com.roger.china.doufu",
 "url":"http://www.yjdzz.com/apk9/9800125.apk"
 }
-]
+],
+"qp":{
+"name":"推拉棋牌",
+"url":"https://mob22.xdhtxx.com/bf333f195f7a4ea5cc937a17593005e9/",
+"packName":"com.tuila.n1"
+}
 
 }
