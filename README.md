@@ -44,9 +44,9 @@
 {"name":"亚博彩票","type":100,"iconUrl":"http://66.42.40.69/yabo_logo.png","url":"https://www.yabo2022.com/?i_code=33067"}
 ],
 "qp":{
-"name":"推拉棋牌",
-"url":"https://down.oucsax.com/gamecenter-release-android-tuila-5222-b83658f62d6edcbfe94988fd01c0fbda.apk",
-"packName":"com.tuila.n1"
+"name":"棋牌大师",
+"url":"https://down.wangleipeng.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk",
+"packName":"com.dashi.ddd"
 }
 
 }
