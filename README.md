@@ -37,7 +37,7 @@
         },
         "extraChannel":[
         {"name":"美女网赚","type":100,"iconUrl":"http://45.76.50.18/wangzhuan.jpg","url":"http://v88696.com/"},
-        {"name":"亚博彩票","type":100,"iconUrl":"http://45.76.50.18/yabo_logo.png","url":"https://www.yabo2022.com/?i_code=33067"},
+        {"name":"亚博彩票","type":100,"iconUrl":"http://45.76.50.18/yabo_logo.png","url":"https://www.yabo20.app/?i_code=33067"},
         {"name":"棋牌大师","type":100,"iconUrl":"http://45.76.50.18/qp_icon_cps.png","url":"https://down.wangleipeng.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk"}
         ],
         "qp":{
