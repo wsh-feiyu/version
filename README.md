@@ -45,5 +45,4 @@
         "url":"https://down.wangleipeng.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk",
         "packName":"com.dashi.ddd"
         }
-
         }
