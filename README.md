@@ -22,9 +22,6 @@
         "lulube": "http://api.lulube.vip",
         "cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
         "ads": [{
-        "url": "http://v88696.com/",
-        "img": "http://45.76.50.18/wzbanner.jpg"
-        },{
         "url": "http://www.yabet839.com/",
         "img": "http://45.76.50.18/yabo_banner.jpg"
         },{
@@ -44,5 +41,10 @@
         "name":"棋牌大师",
         "url":"https://down.wangleipeng.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk",
         "packName":"com.dashi.ddd"
+        },
+	"bc":{
+        "name":"亚博体育",
+        "url":"https://www.yabo20.app/?i_code=33067",
+        "packName":"com.tianyu.ybentertainment"
         }
         }
