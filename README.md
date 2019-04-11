@@ -8,7 +8,7 @@
         "storeUrl": "http://t.cn/EiVRy4G",
         "versionId": 440,
         "messageId": 440,
-        "url91": "https://0228.p15.rocks/",
+        "url91": "https://91dizhi-at-gmail-com-0403.w15.rocks/",
         "urlTiktok": "http://api88.iicp.net:88/",
         "urlTorrent": "http://ps567.us/",
         "newliveToken": "eca38cd625c17e209ecca22706a83270",
@@ -27,7 +27,8 @@
         },{
         "url": "https://down.wangleipeng.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk",
         "img": "http://45.76.50.18/qp_banner_cps.jpg"
-        }],
+        },{ 
+	"url": "http://v88696.com/", "img": "http://45.76.50.18/wzbanner.jpg" }],
         "launchAd": {
         "url": "https://96825edge.chinabaoao.com/android_yabo/YaBo.apk",
         "img": "http://45.76.50.18/yabo_launch.jpg"
