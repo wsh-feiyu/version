@@ -3,11 +3,11 @@
         "showExtraLaunch":0,
         "isRunAd": true,
         "isShowShare": true,
-        "message": "xxlive4.5更新！！\n1.修复直播频道、有声小说、名优馆、香蕉视频、茄子视频、抖阴台湾版、电视频道\n2.新增 OMG视频、朱古力、JAV TV、AV Juicy\n3.请大家最好跟着最新版本走，免得迷路。不可能出现旧版会比新版好用的情况\n4.新版下载地址：http://t.cn/EXNyCXP",
+        "message": "直播接口修复中，敬请期待。",
         "shareMessage":"xxlive4.5重磅来袭，分享最强聚合看片 app\n1.聚合数百个福利直播频道、上万主播陪你夜夜笙歌\n2.上百万部高清大片任性看\n3.抖音漏点门最全集合、苍井空无码流出版等热点视频急速更新\n4.永久免费在线观看！！无须翻墙！！无观看限制\n5.下载地址：http://t.cn/EXNyCXP",
         "storeUrl": "http://t.cn/EXNyCXP",
         "versionId": 450,
-        "messageId": 450,
+        "messageId": 451,
         "url91": "https://91dizhi-at-gmail-com-0403.w15.rocks/",
         "urlTiktok": "http://api88.iicp.net:88/",
         "urlTorrent": "http://ps567.us/",
@@ -40,12 +40,12 @@
         {"name":"亚博彩票","type":100,"iconUrl":"http://45.76.50.18/yabo_logo.png","url":"https://www.yabo16.app/?i_code=33067"},
         {"name":"棋牌大师","type":100,"iconUrl":"http://45.76.50.18/qp_icon_cps.png","url":"https://down.wangleipeng.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk"}
         ],
-        "qp":{
+        "bc1":{
         "name":"棋牌大师",
         "url":"https://down.wangleipeng.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk",
         "packName":"com.dashi.ddd"
         },
-	"bc":{
+	"qp":{
         "name":"亚博体育",
         "url":"https://www.yabo16.app/?i_code=33067",
         "packName":"com.tianyu.ybentertainment"
