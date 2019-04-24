@@ -46,7 +46,7 @@
         "packName":"com.dashi.ddd"
         },
 	"qp":{
-        "name":"亚博体育",
+        "name":"亚博彩票",
         "url":"https://www.yabo16.app/?i_code=33067",
         "packName":"com.tianyu.ybentertainment"
         }
