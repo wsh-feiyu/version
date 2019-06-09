@@ -39,9 +39,9 @@
         "img": "http://45.76.50.18/biying_banner.jpg"
         }],
         "launchAd": {
-        "url": "https://down.rqi17.com/gamecenter-release-android-fuyao-6190-5d3b1afa38d428ff8f4792cf68b3a434.apk",
+        "url": "https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk",
         "img": "http://45.76.50.18/jiguang_launch.jpg",
-	"h5":"https://down.rqi17.com/gamecenter-release-android-fuyao-6190-5d3b1afa38d428ff8f4792cf68b3a434.apk"
+	"h5":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk"
         },
         "extraChannel":[
         {"name":"美女网赚","type":100,"iconUrl":"http://45.76.50.18/wangzhuan.jpg","url":"http://v88696.com/","channelString":"MD_100"},
