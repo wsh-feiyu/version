@@ -72,7 +72,7 @@
     "downInfo":{
 	"versionId":2,
 	"message":"修复下载闪退问题",
-	"downLoadUrl":"https://www.lanzous.com/i482vni",
+	"downLoadUrl":"https://www.lanzous.com/i4jf94b",
 	"qp":{
         	"name":"此间棋牌",
         	"url":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk",
