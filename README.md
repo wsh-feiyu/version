@@ -3,7 +3,7 @@
         "showExtraLaunch":0,
         "isRunAd": true,
         "isShowShare": true,
-        "message": "XXLive5.4更新\n1.新增 Anna 直播聚合、新增蝌蚪窝频道 2.杏吧楼凤新增重庆、成都\n3.修复 Asian Lolita 播放失败、修复名优馆、修复猫咪\n4.破解版横行，请大家支持正版、分享正版 XXLive\n下载地址：https://www.lanzous.com/b777949",
+        "message": "XXLive5.4更新\n1.新增 Anna 直播聚合、新增蝌蚪窝频道\n2.杏吧楼凤新增重庆、成都\n3.修复 Asian Lolita 播放失败、修复名优馆、修复猫咪\n4.破解版横行，请大家支持正版、分享正版 XXLive\n下载地址：https://www.lanzous.com/b777949",
         "shareMessage":"xxlive5.4重磅来袭，分享最强聚合看片 app\n1.聚合数百个福利直播频道、上万主播陪你夜夜笙歌\n2.上百万部高清大片任性看\n3.抖音漏点门最全集合、苍井空无码流出版等热点视频急速更新\n4.永久免费在线观看！！无须翻墙！！无观看限制\n5.下载地址：https://www.lanzous.com/b777949",
         "storeUrl": "https://www.lanzous.com/b777949",
         "versionId": 540,
@@ -30,7 +30,7 @@
         "url": "http://www.yabet839.com/",
         "img": "http://45.76.50.18/yabo_banner.jpg"
         },{
-        "url": "https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk",
+        "url": "https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         "img": "http://45.76.50.18/qp_banner_cps.jpg"
         },{ 
 	    "url": "http://v88696.com/",
@@ -40,20 +40,20 @@
         "img": "http://45.76.50.18/biying_banner.jpg"
         }],
         "launchAd": {
-        "url": "https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk",
+        "url": "https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         "img": "http://45.76.50.18/jiguang_launch.jpg",
-	"h5":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk"
+	"h5":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
         },
         "extraChannel":[
         {"name":"美女网赚","type":100,"iconUrl":"http://45.76.50.18/wangzhuan.jpg","url":"http://v88696.com/","channelString":"MD_100"},
         {"name":"亚博彩票","type":100,"iconUrl":"http://45.76.50.18/yabo_logo.png","url":"http://www.yabet839.com","channelString":"MD_101"},
-        {"name":"此间棋牌","type":100,"iconUrl":"http://45.76.50.18/qp_icon_cps.png","url":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk","channelString":"MD_102"},
+        {"name":"此间棋牌","type":100,"iconUrl":"http://45.76.50.18/qp_icon_cps.png","url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1","channelString":"MD_102"},
         {"name":"必赢彩票","type":100,"iconUrl":"http://45.76.50.18/biying_logo.jpg","url":"http://www-yrewhew909.com/","channelString":"MD_103"},
 	{"name":"美女网赚","type":100,"iconUrl":"http://45.76.50.18/wangzhuan.jpg","url":"http://v88696.com/","channelString":"MD_100"}
         ],
         "bc1":{
         "name":"此间棋牌",
-        "url":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk",
+        "url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         "packName":"com.cijian.cccjjj"
         },
 	"qp":{
@@ -68,7 +68,7 @@
     "eggplant":"http://www.qzuxgkbal.com",
     "textAd":{
         "img":"点击免费领现金",
-        "url":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk"
+        "url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
     },
     "downInfo":{
 	"versionId":2,
@@ -76,7 +76,7 @@
 	"downLoadUrl":"https://www.lanzous.com/i4jf94b",
 	"qp":{
         	"name":"此间棋牌",
-        	"url":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk",
+        	"url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         	"packName":"com.cijian.cccjjj"
         }
     },
@@ -84,7 +84,7 @@
 	{
 	"h5":"MD_102",
         "img":"http://45.76.50.18/qp_02.jpg",
-        "url":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk"
+        "url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
 	},
         {
         "h5":"MD_101",
@@ -94,7 +94,7 @@
 	{
 	"h5":"MD_102",
         "img":"http://45.76.50.18/qp_03.jpg",
-        "url":"https://down.mdo52.com/gamecenter-release-android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7.apk"
+        "url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
 	},
 	{
 	"h5":"MD_100",
