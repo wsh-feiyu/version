@@ -31,7 +31,7 @@
         "url": "http://www.yabet839.com/",
         "img": "http://45.76.50.18/yabo_banner.jpg"
         },{
-        "url": "https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
+        "url": "https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         "img": "http://45.76.50.18/qp_banner_cps.jpg"
         },{ 
 	    "url": "http://v88696.com/",
@@ -41,20 +41,20 @@
         "img": "http://45.76.50.18/biying_banner.jpg"
         }],
         "launchAd": {
-        "url": "https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
+        "url": "https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         "img": "http://45.76.50.18/jiguang_launch.jpg",
-	"h5":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
+	"h5":"https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
         },
         "extraChannel":[
         {"name":"美女网赚","type":100,"iconUrl":"http://45.76.50.18/wangzhuan.jpg","url":"http://v88696.com/","channelString":"MD_100"},
         {"name":"亚博彩票","type":100,"iconUrl":"http://45.76.50.18/yabo_logo.png","url":"http://www.yabet839.com","channelString":"MD_101"},
-        {"name":"此间棋牌","type":100,"iconUrl":"http://45.76.50.18/qp_icon_cps.png","url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1","channelString":"MD_102"},
+        {"name":"此间棋牌","type":100,"iconUrl":"http://45.76.50.18/qp_icon_cps.png","url":"https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1","channelString":"MD_102"},
         {"name":"必赢彩票","type":100,"iconUrl":"http://45.76.50.18/biying_logo.jpg","url":"http://www-yrewhew909.com/","channelString":"MD_103"},
 	{"name":"美女网赚","type":100,"iconUrl":"http://45.76.50.18/wangzhuan.jpg","url":"http://v88696.com/","channelString":"MD_100"}
         ],
         "bc1":{
         "name":"此间棋牌",
-        "url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
+        "url":"https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         "packName":"com.cijian.cccjjj"
         },
 	"qp":{
@@ -69,7 +69,7 @@
     "eggplant":"http://www.qzuxgkbal.com",
     "textAd":{
         "img":"点击免费领现金",
-        "url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
+        "url":"https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
     },
     "downInfo":{
 	"versionId":2,
@@ -77,7 +77,7 @@
 	"downLoadUrl":"https://www.lanzous.com/i4jf94b",
 	"qp":{
         	"name":"此间棋牌",
-        	"url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
+        	"url":"https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         	"packName":"com.cijian.cccjjj"
         }
     },
@@ -85,7 +85,7 @@
 	{
 	"h5":"MD_102",
         "img":"http://45.76.50.18/qp_02.jpg",
-        "url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
+        "url":"https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
 	},
         {
         "h5":"MD_101",
@@ -95,7 +95,7 @@
 	{
 	"h5":"MD_102",
         "img":"http://45.76.50.18/qp_03.jpg",
-        "url":"https://www.hji83.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
+        "url":"https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1"
 	},
 	{
 	"h5":"MD_100",
