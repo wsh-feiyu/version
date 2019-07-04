@@ -3,11 +3,11 @@
         "showExtraLaunch":0,
         "isRunAd": true,
         "isShowShare": true,
-        "message": "XXLive5.4更新\n1.新增 Anna 直播聚合、新增蝌蚪窝频道\n2.杏吧楼凤新增重庆、成都\n3.修复 Asian Lolita 播放失败、修复名优馆、修复猫咪\n4.破解版横行，请大家支持正版、分享正版 XXLive\n下载地址：https://www.lanzous.com/b811681\n\nAnna 直播已修复",
-        "shareMessage":"xxlive5.4重磅来袭，分享最强聚合看片 app\n1.聚合数百个福利直播频道、上万主播陪你夜夜笙歌\n2.上百万部高清大片任性看\n3.抖音漏点门最全集合、苍井空无码流出版等热点视频急速更新\n4.永久免费在线观看！！无须翻墙！！无观看限制\n5.下载地址：https://www.lanzous.com/b811681",
+        "message": "XXLive5.5更新\n1.香蕉视频、快猫改版，100%仿真\n2.新增小红楼，全国楼凤、高端伴游、良家一夜情信息任性查\n3.修复云小说、优化麻花影视\n4.破解版横行，请大家支持正版、分享正版 XXLive\n下载地址：https://www.lanzous.com/b811681\n5.telegram 群：https://t.me/xxlive",
+        "shareMessage":"XXLive5.5重磅来袭，分享最强聚合看片 app\n1.聚合数百个福利直播频道、上万主播陪你夜夜笙歌\n2.上百万部高清大片任性看\n3.抖音漏点门最全集合、苍井空无码流出版等热点视频急速更新\n4.永久免费在线观看！！无须翻墙！！无观看限制\n5.下载地址：https://www.lanzous.com/b811681",
         "storeUrl": "https://www.lanzous.com/b811681",
-        "versionId": 540,
-        "messageId": 541,
+        "versionId": 550,
+        "messageId": 550,
         "url91": "https://91dizhi-at-gmail-com-0403.w18.rocks/",
         "urlTiktok": "http://api88.iicp.net:88/",
         "urlTorrent": "https://bbs.am5200.com/",
@@ -15,7 +15,7 @@
         "avLiveToken":"6e8b8647665205fadae89e6a7c20b776",
         "hookLiveToken":"649bca3dc4ee5d40d3761ba0f2014c62",
 	"avUrl":"https://app.iujxks.xyz",
-	"annaToken":"5fc674e6ca3a6f2812fe7926841786bd",
+	"annaToken":"29f54b2527a9326b002ab8f0525a69e4",
         "designation": "http://cnbtkitty.me",
         "shareUrl": "http://45.76.50.18/index.html",
         "userUrl": "http://45.76.50.18/member",
@@ -52,12 +52,12 @@
         {"name":"必赢彩票","type":100,"iconUrl":"http://45.76.50.18/biying_logo.jpg","url":"http://www-yrewhew909.com/","channelString":"MD_103"},
 	{"name":"美女网赚","type":100,"iconUrl":"http://45.76.50.18/wangzhuan.jpg","url":"http://v88696.com/","channelString":"MD_100"}
         ],
-        "bc1":{
+        "qp":{
         "name":"此间棋牌",
         "url":"https://www.mtu46.com/api/download.do?pid=android-cijian-6088-06fa4d04ccd74656c5d75ad645cb37c7&s=1",
         "packName":"com.cijian.cccjjj"
         },
-	"qp":{
+	"bc1":{
         "name":"亚博彩票",
         "url":"https://www.yabo16.app/?i_code=33067",
         "packName":"com.tianyu.ybentertainment"
